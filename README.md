@@ -1,2 +1,2 @@
-# gcg-1pm
+# GoCodeGirl-webdev-demo
 Created with CodeSandbox
